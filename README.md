@@ -24,4 +24,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="Files/FlixGif.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+While I was trying to add constraints for my launch screen, I was having problem with different screen resolution, I could able to fix this issue by centering it using horizontal and vertical constaints.
